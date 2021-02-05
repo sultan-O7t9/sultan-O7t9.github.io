@@ -14,3 +14,6 @@ setTimeout(() => {
 //     loading.css("display", "none");
 //   }, 800);
 // }, 1450);
+
+const title= document.querySelector(".title");
+title.textContent= "<Sultan/>"
