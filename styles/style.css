@@ -59,8 +59,8 @@ a {
 }
 
 #spinner {
-  -webkit-animation: rotate 0.56s infinite linear;
-          animation: rotate 0.56s infinite linear;
+  -webkit-animation: rotate 1s infinite linear;
+          animation: rotate 1s infinite linear;
   width: 60px;
   position: absolute;
   top: 50%;
@@ -173,7 +173,7 @@ header {
 
 .tagline {
   max-width: 50rem;
-  font-size: 3.2rem;
+  font-size: 3.6rem;
   line-height: 1.2;
   margin-bottom: 1.5rem;
 }
